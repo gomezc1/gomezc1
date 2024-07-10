@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **gomezc1/gomezc1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gomezc1&label=Profile%20views&color=0e75b6&style=flat" alt="gomezc1" /> </p>

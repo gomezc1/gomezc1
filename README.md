@@ -1,27 +1,16 @@
 <img src="gitimage.jpg">
 
+<h1 align="center">👋Hello <img src="peek.png" width="50" height="50"> </h1>
 
-<h1 align="center">👋Hello <img src="peek.png" width="50" 
-     height="50"> </h1>
-<p align="center"> 
-<img src="plant.png" width="10" 
-     height="10">I’m currently learning advanced web development & backend(university)<img src="plant.png" width="10" 
-     height="10"><br>
-<img src="plant.png" width="10" 
-     height="10"> 🖳 Computer Science'25 <img src="plant.png" width="10" 
-     height="10">
-<br>
-<br>
+<p align="center"> <img src="plant.png" width="10" height="10">I’m currently learning advanced web development & backend(university)<img src="plant.png" width="10" height="10"><br>
+<img src="plant.png" width="10" height="10"> 🖳 Computer Science'25 <img src="plant.png" width="10" height="10"><br><br>
+
 <a href="https://visitcount.itsvg.in">
 <img src="https://visitcount.itsvg.in/api?id=gomezc1&label=Profile%20Views&color=0&icon=2&pretty=true" />
-
-</p>
-
+</p><br>
 
 
-<br/>
-
-<h2 align="center"><font color:teal>⚙️Languages & Tools🛠️</font></h2> </br>
+<h2 align="center">⚙️Languages & Tools🛠️</h2><br>
 
 <p align="center"><a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>

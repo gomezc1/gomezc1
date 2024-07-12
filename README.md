@@ -10,7 +10,11 @@
 <img src="plant.png" width="10" 
      height="10"> Computer Science'25 <img src="plant.png" width="10" 
      height="10">
-     
+<br>
+<br>
+<a href="https://visitcount.itsvg.in">
+<img src="https://visitcount.itsvg.in/api?id=gomezc1&label=Profile%20Views&color=0&icon=2&pretty=true" />
+
 </p>
 
 
@@ -33,6 +37,3 @@
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
 <br>
 <br>
-<br>
-<a href="https://visitcount.itsvg.in">
-<img src="https://visitcount.itsvg.in/api?id=gomezc1&label=Profile%20Views&color=0&icon=2&pretty=true" />

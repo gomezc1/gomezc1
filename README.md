@@ -1,6 +1,6 @@
 <img src="gitimage.jpg">
 
-<h1 align="center">👋Hello <img src="peek.png" width="50" height="50"> </h1>
+<h1 align="center">👋 Hello <img src="peek.png" width="50" height="50"> </h1>
 
 <p align="center"> <img src="plant.png" width="10" height="10"> I’m currently learning advanced web development & backend(university) <img src="plant.png" width="10" height="10"><br>
 <img src="plant.png" width="10" height="10"> 🖳 Computer Science'25 <img src="plant.png" width="10" height="10"><br>

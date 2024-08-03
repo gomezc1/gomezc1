@@ -1,14 +1,23 @@
 <img src="gitimage.jpg">
 
-<h1 align="center">👋 Hello <img src="peek.png" width="50" height="50"> </h1>
+<h1 align="center">Hello/ Hola/ Bonjour/ 你好/ こんにちは</h1>
+
+
+
+<div align="center">
+ <img src="bigmood.png" width="200" height="500">
+</div>
 
 <p align="center"> <img src="plant.png" width="10" height="10"> I’m currently learning advanced web development & backend(university) <img src="plant.png" width="10" height="10"><br>
 <img src="plant.png" width="10" height="10"> 🖳 Computer Science'25 <img src="plant.png" width="10" height="10"><br>
 <img src="plant.png" width="10" height="10"> San Francisco, CA <img src="plant.png" width="10" height="10"><br><br>
 
+
 <a href="https://visitcount.itsvg.in">
 <img src="https://visitcount.itsvg.in/api?id=gomezc1&label=Profile%20Views&color=0&icon=2&pretty=true"/>
-</p><br>
+<br>
+
+
 
 
 <h2 align="center">⚙️Languages & Tools🛠️</h2><br>

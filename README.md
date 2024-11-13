@@ -4,7 +4,7 @@
 
 
 
-<p align="center"> <img src="plant.png" width="10" height="10"> c: <img src="plant.png" width="10" height="10"><br>
+<p align="center"> <img src="plant.png" width="10" height="10"> Mexicanas en Tech c: <img src="plant.png" width="10" height="10"><br>
 <img src="plant.png" width="10" height="10"> 🖳 Computer Science'25 <img src="plant.png" width="10" height="10"><br><br>
 
 

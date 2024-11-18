@@ -4,7 +4,7 @@
 
 
 
-<p align="center"> - I am a current senior in Computer Science 💻 - <br> - Currently Learning: HCI & AI in university 📚 - <br>  Current Locations: San Francisco, Chicago & Asia 🌐<br>
+<p align="center"> - I am a current senior in Computer Science 💻 - <br> - Currently Learning: HCI & AI in university 📚 - <br> My first computer game was in kindergarten<br> I began dabbling in coding on my own at the age of 12.<br>Current Locations: San Francisco, Chicago & Asia 🌐<br> 
 - Graduation 2025 🤖 - <br><br>
 
 

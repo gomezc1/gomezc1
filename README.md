@@ -4,7 +4,7 @@
 
 
 
-<p align="center"> - I am current senior in Computer Science - <br> - Currently Learning: HCI & AI in university 📚 - <br>  Location: San Francisco & Chicago <br>
+<p align="center"> - I am a current senior in Computer Science - <br> - Currently Learning: HCI & AI in university 📚 - <br>  Location: San Francisco & Chicago <br>
 - Graduation 2025 🤖 - <br><br>
 
 

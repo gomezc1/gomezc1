@@ -1,11 +1,11 @@
-<img src="gitimage.jpg">
+
 
 <h1 align="center">Hello/ Hola</h1>
 
 
 
-<p align="center"> <img src="plant.png" width="10" height="10"> No me impotaaaah, mi graduation is next year :D<img src="plant.png" width="10" height="10"><br>
-<img src="plant.png" width="10" height="10"> 🖳 Computer Science'25 <img src="plant.png" width="10" height="10"><br><br>
+<p align="center"> <img src="plant.png" width="10" height="10"> No me impotaaaah, mi graduation is next year<img src="plant.png" width="10" height="10"><br>
+<img src="plant.png" width="10" height="10">Computer Science'25 🤖<img src="plant.png" width="10" height="10"><br><br>
 
 
 

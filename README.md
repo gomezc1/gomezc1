@@ -4,7 +4,7 @@
 
 
 
-<p align="center"> <img src="plant.png" width="10" height="10"> Damien Hosea and Mazen Zwin are hacking into womens socials at SFSU and are abusive<br> towards women that stand up for themselves in the field They are not for Equity & Community Inclusion <img src="plant.png" width="10" height="10"><br>
+<p align="center"> <img src="plant.png" width="10" height="10"> Damien Hosea and Mazen Zwin are hacking into womens socials at SFSU and are abusive<br> towards women that stand up for themselves in the field. They don't support Equity & Community Inclusion <img src="plant.png" width="10" height="10"><br>
 <img src="plant.png" width="10" height="10"> 🖳 Computer Science'25 <img src="plant.png" width="10" height="10"><br><br>
 
 

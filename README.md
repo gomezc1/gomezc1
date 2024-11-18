@@ -4,8 +4,8 @@
 
 
 
-<p align="center"> <img src="plant.png" width="10" height="10"> No me impotaaaah, mi graduation is next year<img src="plant.png" width="10" height="10"><br>
-<img src="plant.png" width="10" height="10">Computer Science'25 🤖<img src="plant.png" width="10" height="10"><br><br>
+<p align="center"> - I am current senior in Computer Science - <br> - Currently learning: HCI & AI in university - <br>  Location: San Francisco & Chicago <br>
+- Graduation 2025 🤖 - <br><br>
 
 
 

@@ -10,7 +10,7 @@
     - Did I code in high school? Yes, I was also a Myspace Brat 😄 - <br>
     - Tech experience before university? Yes.- <br>
     - Industries worked in? : Healthcare, Tech, Family & Business Law. <br>
-    - Do you have a mentor? Yes, he's a Senior Software Engineer: Ex FANG & Fintech. <br>
+    - Do you have a mentor? Yes, he's a Senior Software Engineer Manager: Ex FANG & Fintech. <br>
     - Is a Master's in the plans? Definitely! I have universities in mind 🧠 - <br>
     - Current Locations: San Francisco, Chicago, and Asia 🌐 - <br>
     - Graduation: 2025 🤖 -

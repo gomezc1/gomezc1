@@ -13,6 +13,7 @@
     - Do you have a mentor? Yes, he's a Senior Software Engineer Manager: Ex FAANG & Fintech. <br>
     - Is a Master's in the plans? Definitely! I have universities in mind 🧠 - <br>
     - Current Locations: San Francisco, Chicago, and Asia 🌐 - <br>
+    - Stop using the Matrix! I grew up on The Matrix...deal with it potato :P <br>
     - Graduation: 2025 🤖 -
     <br>
     <br>

@@ -1,19 +1,7 @@
-<h1 align="center">- Hey You 👋🏼 -</h1>
-
-
+<h1 align="center">- Hi 👋🏼 -</h1>
 
 <p align="center">
-    - I am a senior in Computer Science 💻 - <br>
-    - Currently Learning: HCI & AI 📚 - <br>
-    - My first computer game was in kindergarten 🎮 - <br>
-    - I started coding at the age of 12 🧑‍💻 - <br>
-    - Did I code in high school? Yes, I was also a Myspace Brat 😄 - <br>
-    - Tech experience before university? Yes.- <br>
-    - Industries worked in? : Healthcare, Tech, Family & Business Law. <br>
-    - Do you have a mentor? Yes, he's a Senior Software Engineer Manager: Ex FAANG & Fintech. <br>
-    - Is a Master's in the plans? Definitely! I have universities in mind 🧠 - <br>
-    - Current Locations: San Francisco, Chicago, and Asia 🌐 - <br>
-    - Stop using the Matrix! I grew up on The Matrix...deal with it potato :P <br>
+    - I'm a senior in Computer Science -<br>
     - Graduation: 2025 🤖 -
     <br>
     <br>

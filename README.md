@@ -1,9 +1,8 @@
 
-<h1 align="center"> Hi 👋🏼 </h1>
+<h1 align="center">  </h1>
 
 <p align="center">
-    - I'm a senior in Computer Science -<br>
-    - Graduation: 2025 🤖 -
+     Graduation: 2025 🤖 
     <br>
     <br>
 

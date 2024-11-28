@@ -1,5 +1,5 @@
 
-<h1 align="center">~ Hi 👋🏼 ~</h1>
+<h1 align="center"> Hi 👋🏼 </h1>
 
 <p align="center">
     - I'm a senior in Computer Science -<br>

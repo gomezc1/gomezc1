@@ -4,3 +4,5 @@
 - I don't like chocolate. I like Mexican candy c:
 - Graduating this year 2025 ;)
 - Taking your jobs :D
+- Get your degrees ladies
+

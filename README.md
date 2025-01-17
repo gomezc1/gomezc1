@@ -2,9 +2,10 @@
 
 - I'm Papi ;)
 - Hit40 low value :c negative outputs #old :/
-- Graduating this year 2025 ;)
+- Graduating this year 2025 ;) #celebrationyay
 - Taking your jobs :D
-- League elite & Goated FamTree  
+- League elite & Goated FamTree (weineverything)
+  
   
 
 

@@ -5,6 +5,11 @@
 - Graduating this year 2025 ;) 
 - Taking your jobs :D
 - League elite & Goated FamTree (weineverything)
+- I like guns
+- A pound of steak with a side of beer sounds ideal.
+- Whiskey & Rum only 
+
+
   
   
 

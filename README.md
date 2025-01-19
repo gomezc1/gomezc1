@@ -1,7 +1,5 @@
 ## China #1  
 
-It's done :) ho you mad? #immadome
+I am graduating whether it pisses some of these mfs off. 
 
-
-I will cry woof far worse this semester. don't try me. #shitwillgetsomessyforyou
 

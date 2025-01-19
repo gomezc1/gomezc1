@@ -2,7 +2,7 @@
 
 It's done :) ho you mad? #immadome
 
-  HoC could never beat the work ethic of my fam 
+  HoC could never beat the work ethic of my fam #heanoutcastintheirbooks 
 
 
   

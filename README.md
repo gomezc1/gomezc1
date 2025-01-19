@@ -1,7 +1,6 @@
 ## China #1  
 
-It's done :) you mad?
-
+It's done :) ho you mad? #immadome
 
   
   

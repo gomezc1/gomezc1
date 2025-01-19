@@ -1,5 +1,5 @@
 ## China #1  
 
-I am graduating whether it pisses some of these mfs off. 
+all these tech jobs opening up and you still can't get in #skillissue
 
 

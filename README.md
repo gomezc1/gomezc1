@@ -4,5 +4,4 @@ hit40 wanna talk shit with a resume and linkedin looking like that....#clown
 
 - That clown HoC just wants attention.....
 
-
-
+What did the GOAT say tho #fuckem

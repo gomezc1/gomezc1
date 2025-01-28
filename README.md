@@ -1,6 +1,6 @@
 ## 
 
-- Senior in Computer Science
+- Senior in Computer Science :)
 
 
 

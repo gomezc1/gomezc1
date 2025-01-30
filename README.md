@@ -7,7 +7,7 @@
 - #mastersprogrambound<3
 - I worked at Uber Technologies before attending university. 
 - Frontend and Web Developement, Prompt Engineering is what I enjoy the most.
-- Selective c:
+
   
    
   

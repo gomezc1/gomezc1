@@ -1,8 +1,7 @@
 ## About Me 
 
 - I'm a senior in Computer Science #Classof2025
-- 🌱 I’m currently learning React outside of university.
-- Actively looking for work in the field. 
+- 🌱 I’m currently learning React outside of university. 
 - Taking a max load this semester.
 - #mastersorPhDbound<3 still deciding :D
 - I worked at Uber Technologies before attending university. 

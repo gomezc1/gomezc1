@@ -4,7 +4,7 @@
 - I'm a senior in Computer Science. #Classof2025                                                                      
 - Taking a max load this semester.
 
-<img src="raymybae.png" alt="itbites" width="300" height="300">  
+<img src="raymybae.png" alt="dontgivehimareasontobitemf" width="300" height="300">  
   
 - #mastersorPhDbound<3 still deciding.
 - I worked at Uber Technologies before attending university. 

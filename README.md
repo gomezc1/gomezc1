@@ -12,6 +12,7 @@
 - I worked at Uber Technologies before attending university. 
 - I had the opportunity to be part of many exciting projects that are used worldwide today.
 - Frontend and Web Developement and Prompt Engineering is what I enjoy the most.
+  
 <img src="gitimage.jpg" width="1010" height="5">
 
   

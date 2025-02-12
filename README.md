@@ -2,7 +2,7 @@
 
 ## About Me
 
-- 🌱 I’m currently learning React outside of university. 
+- I’m currently learning React outside of university. 
 - I'm a senior in Computer Science. #Classof2025                                                                      
 - Taking a max load this semester.
 

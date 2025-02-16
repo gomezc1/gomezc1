@@ -8,7 +8,7 @@
 
 <img src="raymybae.png" alt="raybites" width="250" height="250">  
   
-- #mastersorPhDbound<3 still deciding.
+- #MastersBound2026
 - I worked at Uber Technologies before attending university. 
 - I had the opportunity to be part of many exciting projects that are used worldwide today.
 - Frontend, Web Developement and Prompt Engineering is what I enjoy the most.

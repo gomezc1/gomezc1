@@ -4,10 +4,7 @@
 
 - I’m currently learning React outside of university. 
 - I'm a senior in Computer Science. #Classof2025                                                                      
-- Taking a max load this semester.
-
-<img src="raymybae.png" alt="raybites" width="250" height="250">  
-  
+- Taking a max load this semester. 
 - #MastersBound2026
 - I worked at Uber Technologies before attending university. 
 - I had the opportunity to be part of many exciting projects that are used worldwide today.

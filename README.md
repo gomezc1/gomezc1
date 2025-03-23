@@ -2,14 +2,13 @@
 
 ## About Me
 
-- I’m currently learning React outside of university. 
-- I'm a senior in Computer Science. #Classof2025                                                                      
-- Taking a max load this semester. 
-- #MastersBound2026
-- I worked at Uber Technologies before attending university. 
-- I had the opportunity to be part of many exciting projects that are used worldwide today.
-- Frontend, Web Developement and Prompt Engineering is what I enjoy the most.
-  
+- I am currently learning React independently alongside my university studies.
+- I am a senior pursuing a Bachelor's degree in Computer Science with a minor,<br>
+  graduating in the Class of 2025.
+- Prior to attending university, I worked at Uber Technologies.
+- I have had the privilege of contributing to impactful projects that are widely used today.
+- The best way to contact me is via email.
+
 <img src="gitimage.jpg" width="1010" height="2">
 
   

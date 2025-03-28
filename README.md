@@ -10,8 +10,11 @@
 <img src="gitimage.jpg" width="1010" height="2"> <br>
 
 
--  My current meditation song before coding c: <br>
-[![Watch the Video](https://img.youtube.com/vi/qyYmS_iBcy4/0.jpg)](https://www.youtube.com/watch?v=qyYmS_iBcy4)
+
+[Lil Prey c:](https://youtu.be/WL_8ZY89dP4?si=KEW5ody9el5XrRr_)
+
+
+
 
 
 

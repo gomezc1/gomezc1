@@ -1,6 +1,7 @@
 <img src="gitimage.jpg" width="1010" height="2">  
 
-## About Me [c:](https://youtu.be/WL_8ZY89dP4?si=KEW5ody9el5XrRr_)
+## About Me [c:](https://youtu.be/mXFWVFzDdvM)
+
 
 - I am currently learning React independently alongside my university studies.
 - I am a senior pursuing a Bachelor's degree in Computer Science with a minor.
@@ -9,8 +10,6 @@
 - The best way to contact me is via email.
 
 <img src="gitimage.jpg" width="1010" height="2"> <br>
-
-
 
 
 

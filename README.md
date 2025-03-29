@@ -1,6 +1,6 @@
 <img src="gitimage.jpg" width="1010" height="2">  
 
-## About Me [c:](https://youtu.be/kNIx_Jdz3GQ?feature=shared)
+## About Me c:
 
 
 - I am currently learning React independently alongside my university studies.

@@ -1,6 +1,6 @@
 <img src="gitimage.jpg" width="1010" height="2">  
 
-## About Me [c:](https://youtu.be/hr38LGZcML0?si=G972vXPD2vEGL2Dn)
+## About Me [c:](https://youtu.be/Fwr1Z7uyXz4?si=tFDooURGUt_WfrAt)
 
 
 

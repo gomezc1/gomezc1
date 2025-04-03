@@ -1,4 +1,4 @@
-<img src="gitimage.jpg" width="1010" height="2">  
+
 
 ## About Me [c:](https://youtu.be/FndmvPkI1Ms?si=Y5xrF4L4Z7cBwfG8)
 
@@ -11,7 +11,7 @@
 - I have had the privilege of contributing to impactful projects that are widely used today.
 - The best way to contact me is via email.
 
-<img src="gitimage.jpg" width="1010" height="2"> <br>
+
 
 
 

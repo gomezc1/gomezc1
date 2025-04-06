@@ -1,10 +1,14 @@
 
 
 ## About Me [c:](https://youtu.be/WM8bTdBs-cw?si=Od8JPo1llOkiBI2Y)
-
-- I am a senior pursuing a Bachelor's degree in Computer Science with a minor.
-- Prior to attending university, I worked at Uber Technologies.
-- I have had the privilege of contributing to impactful projects that are widely used today.
+- My first experience with PC gaming was in kindergarten.
+- I was introduced to video games by my father.
+- I began coding at the age of 12.
+- I watched every Matrix film in the theater, except for the first one(SciFi). 
+- In high school, I focused on web design and computer programming.
+- I am currently a senior pursuing a Bachelor's degree in Computer Science with a minor.
+- Before attending university, I worked at Uber Technologies.
+- I have had the privilege of contributing to impactful projects that are widely utilized today.
 - The best way to contact me is via email.
 
 

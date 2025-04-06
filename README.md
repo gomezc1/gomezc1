@@ -1,6 +1,6 @@
 
 
-## About Me [c:](https://youtu.be/EApnhO2OIrw?si=nT_SlOqTDolELcPd)
+## About Me [c:](https://youtu.be/WM8bTdBs-cw?si=Od8JPo1llOkiBI2Y)
 
 - I am a senior pursuing a Bachelor's degree in Computer Science with a minor.
 - Prior to attending university, I worked at Uber Technologies.

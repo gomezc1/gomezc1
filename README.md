@@ -1,6 +1,6 @@
 
 
-## About Me [c:](https://youtu.be/WM8bTdBs-cw?si=Od8JPo1llOkiBI2Y)
+## About Me [c:](https://youtu.be/esgKD5Zy5iQ?si=IArBHtqeyEgsQG0U)
 - My first experience with PC gaming was in kindergarten.
 - I was introduced to video games by my father.
 - I began coding at the age of 12 on and off.

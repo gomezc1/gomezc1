@@ -3,7 +3,7 @@
 ## About Me [c:](https://youtu.be/WM8bTdBs-cw?si=Od8JPo1llOkiBI2Y)
 - My first experience with PC gaming was in kindergarten.
 - I was introduced to video games by my father.
-- I began coding at the age of 12.
+- I began coding at the age of 12 on and off.
 - I watched every Matrix film in the theater, except for the first one(SciFi). 
 - In high school, I focused on web design and computer programming.
 - I am currently a senior pursuing a Bachelor's degree in Computer Science with a minor.

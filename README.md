@@ -1,6 +1,6 @@
 <img src="gitimage2.jpg" alt="hi" style="width: 100%;">
 
-##  Hello| Hola| 你好 [c:](https://youtu.be/bMTGGfQ0Vfs?si=tfiSB3uupKiwqC7p)
+##  Hello| Hola| 你好 [c:](https://youtu.be/2mY7AFTtYwQ?si=7yqd2229Qfdp13iE)
 
 - Senior majoring in Computer Science with a minor 📓
 - Currently developing skills in React and Data Visualization 📈⚙️

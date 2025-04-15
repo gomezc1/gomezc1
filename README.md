@@ -7,7 +7,7 @@
 - Currently developing skills in React and Data Visualization 📈    
 - Strong interest in web development and prompt engineering :] 
 - Actively exploring additional areas within the field of Computer Science 💻
-- Previously worked at UBER for a couple of years prior to attending university📱🖥⚙️ 
+- Previously worked at UBER for a couple of years prior to attending university📱⚖️🖥⚙️ 
 
 
 

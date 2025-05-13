@@ -1,5 +1,5 @@
 
-<img src="config00.jpg" alt="hi" style="width: 1005px; height: 390px;">
+
 
 
 ##  Hello| Hola|Olá|Ciao|你好 [c:](https://youtu.be/5KDR0M-Edrg?si=xbMXC1COlP6vy_WG) <img align='right' src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmIxeGJkOG0zeHhmazc0a2p4dWd6NmY2bmwxYXp1ZjJlOXgwemNzNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/HwBlFQZFcAoUcPHZdX/giphy.gif" width="205"/>

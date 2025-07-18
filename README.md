@@ -1,7 +1,7 @@
 <p align="center">
  🇭 🇪 🇱 🇱 🇴 | 🇭 🇴 🇱 🇦  | 🇴 🇱 🇦  | 🇨 🇮 🇦 🇴  |  你 好     
 </p>
-<img align='right' src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXkxemU4eTAwOWtlMm01cWlzM2poN2d0NDM5YXpkbHhsZmgwNXcxeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/OU8ialnhmaIixQEzbC/giphy.gif" width="195"/>
+<img align='right' src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXkxemU4eTAwOWtlMm01cWlzM2poN2d0NDM5YXpkbHhsZmgwNXcxeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/OU8ialnhmaIixQEzbC/giphy.gif" width="192"/>
 
  #
 <br>

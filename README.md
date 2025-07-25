@@ -6,7 +6,7 @@
 
  #
 <br>
-◗ Senior pursuing a Bachelor’s degree in Computer Science with a minor 🖳
+◗ Senior pursuing a Bachelor’s degree in Computer Science 🖳 with a minor⚕️
 <br>
 ◗  I am exploring various specializations within Computer Science
 <br>

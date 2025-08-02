@@ -14,7 +14,7 @@
 
 
 #
-◗ 🌱 Learning: Healthcare Management Information Systems and React 
+◗ 🌱 Learning: Healthcare Management Information Systems, R and React 
 <br>
 ◗ ✨ Working on: An app for my portfolio
 #

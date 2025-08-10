@@ -14,7 +14,7 @@
 
 
 #
-◗ 🌱 Learning: R and React 
+◗ 🌱 Learning: International criminal justice systems, R and React 
 <br>
 ◗ ✨ Working on: An app for my portfolio
 #

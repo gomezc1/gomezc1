@@ -1,4 +1,4 @@
-<img src="gitimage2.jpg" alt="Alt text" width="1000" height="1000"/>
+
 
 <div style="text-align: center;">
   <h2>Hello👋🏼 <a href="https://www.youtube.com/watch?v=CQ9JdDAbKH0" style="text-decoration:none"> c:

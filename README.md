@@ -1,14 +1,20 @@
 <div style="text-align: center;">
-  <h2>Hello👋🏼 c:
-</a>
-</h2>
-  <ul style="list-style-type: square;">
-  <li>I'm a senior in Computer Science with a minor in Public Health⚕️</li>
-  <li>I'm ex-Uber and UChicago Medicine AdventHealth employee🏥</li>  
-  <li>I like to code in JavaScript and Python the most ⚙️</li>
-  <li>I go to tech conferences and I volunteer from time to time 💻</li>
-  <li>I play videogames 🎮 and I go to concerts</li>
+ 
+  <h1>Hello👋🏼</h1> 
+  <ul style="list-style-type: square; text-align: left; display: inline-block;">
+    <li>I’m a senior pursuing a Bachelor’s degree in Computer Science with a minor in Public Health⚕️</li> 
+    <li>I’m passionate about designing and building innovative solutions that address real-world challenges.</li>  
+    <li>My primary programming languages are JavaScript and Python but I'm forced to code in Java for uni. ⚙️</li>
+    <li>I am currently pursuing certifications and learning new software programs outside of my university studies.📄</li>
+    <li>I actively participate in tech conferences as both an attendee and a volunteer.💻</li>
+    <li>I plan to attend graduate school and ultimately work in a hospital again.🏥</li>
+    <li>I have a wide range of interests and hobbies, and I love learning new things.🧠</li>
   </ul>
 </div>
 
+<h2>
+  Languages & Tools
+</h2>
 
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,py,vscode,git,idea,netlify,npm,react,bootstrap,ubuntu,arduino,replit,figma,raspberrypi,latex,kali,linux&perline=10)](https://skillicons.dev)

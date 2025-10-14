@@ -21,8 +21,9 @@
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,java,py,vscode,git,idea,netlify,npm,react,bootstrap,ubuntu,arduino,replit,figma,raspberrypi,latex,kali,linux&perline=10)](https://skillicons.dev)
 
+<h2></h2>
 
-
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=gomezc1)
 
 
 

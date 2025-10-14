@@ -14,8 +14,17 @@
     <li>I plan to attend graduate school and ultimately work in a hospital again.🏥</li>
     <li>I have a wide range of interests and hobbies, and I love learning new things.🧠</li>
   </ul>
+  
 </div>
 
-<h2>Languages & Tools</h2>
+<h2>Languages & Tools <a href="https://www.youtube.com/watch?v=ogZzp4pG4tE" target="_blank">c:</a></h2>
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,java,py,vscode,git,idea,netlify,npm,react,bootstrap,ubuntu,arduino,replit,figma,raspberrypi,latex,kali,linux&perline=10)](https://skillicons.dev)
+
+
+
+
+
+
+
+

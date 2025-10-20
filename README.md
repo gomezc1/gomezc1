@@ -19,7 +19,7 @@
 
 <h2>Languages & Tools <a href="https://youtu.be/e-dByXld2oM?si=aEGnDiDTPdKPZ6fW" target="_blank">c:</a></h2>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,py,vscode,git,idea,netlify,npm,react,bootstrap,ubuntu,arduino,replit,figma,raspberrypi,latex,kali,linux&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,py,vscode,git,idea,netlify,npm,react,bootstrap,cpp,ubuntu,codepen,arduino,replit,figma,ps,c,raspberrypi,docker,latex,kali,linux&perline=10)](https://skillicons.dev)
 
 <h2></h2>
 

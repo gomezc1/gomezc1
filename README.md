@@ -1,7 +1,5 @@
 <div style="text-align: center;">
-<p align="center">
-  <img src="img0.jpg" alt="Banner" width="100%">
-</p>
+
 
 
   <h1>Hello 👋🏼 <img 

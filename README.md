@@ -13,7 +13,9 @@
   
 </div>
 
+<h2>Languages & Tools <a href="https://youtu.be/Aq5WXmQQooo?si=WnTtxhK_PYzyIkJ1" target="_blank">c:</a></h2>
 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,py,vscode,git,idea,netlify,npm,react,bootstrap,cpp,ubuntu,visualstudio,codepen,cs,postgres,arduino,replit,sqlite,figma,ps,c,raspberrypi,docker,latex,kali,linux&perline=10)](https://skillicons.dev)
 
 
 <h2></h2>

@@ -11,7 +11,7 @@
 
 ## About Me
 - I'm currently working on personal projects and updating my git.
-- Fun fact: I like cookies c:
+- Fun fact: I like cookies.
 
 
 ## My Focus Areas

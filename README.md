@@ -1,5 +1,5 @@
 
- <h1 align="center">Hello, I'm Gomez! <img 
+ <h1 align="center">Hello there! <img 
     src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHh5Z3V5M3duc2d1YnJmbmZkb3h0ejJjYzB1ZXB5NWF6NGo3dHdybyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/tVhJw24Gv8FGGlnjDN/giphy.gif" 
     alt="Hello GIF"style="width: 40px; margin-bottom: 10px;"></h1>
 
